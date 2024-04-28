@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/ban_zhuan",
+		"particle": "item/ban_zhuan"
+	},
+	"elements": [
+		{
+			"from": [3, -7, 5],
+			"to": [10, 8, 9],
+			"rotation": {"angle": -45, "axis": "x", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [3.5, 0, 0, 7.5], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 5.5, 7, 7.5], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [3.5, 7.5, 0, 0], "texture": "#0"},
+				"west": {"uv": [0, 1.5, 7.5, 3.5], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 5.5, 3.5, 7.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 3.5, 3.5, 5.5], "texture": "#0"}
+			}
+		}
+	]
+}
