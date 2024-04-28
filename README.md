@@ -1,2 +1,1 @@
-# datapack
-resourcepacks
+在服务器上使用的资源包，如果你认为这个资源包能在改进，那么你应该提交一个“Pull requests”
